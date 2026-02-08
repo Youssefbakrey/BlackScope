@@ -66,18 +66,31 @@ Python 3.9+
 requests
 
 Common Options
+
 --dns           DNS resolution
+
 --subs          Subdomain enumeration
+
 --ports         Full port scan
+
 --fast-ports    High‑value ports only
+
 --http          HTTP probing
+
 --paths         Endpoint & path discovery
+
 --cors          CORS checks
+
 --ssl           SSL/TLS analysis
+
 --idor          Context‑aware IDOR indicators
+
 --all           Run full recon
+
 --stealth       Low & slow mode
+
 --deep          Aggressive recon
+
 --verbose       Debug output
 
 Output
