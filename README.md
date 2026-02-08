@@ -53,8 +53,10 @@ Multiple scan profiles (stealth / default / deep)
 Recon‑only approach (no exploitation)
 
 Installation :
-git clone https://github.com/yourname/blackscope.git
+git clone https://github.com/Youssefbakrey/blackscope.git
+
 cd blackscope
+
 pip install -r requirements.txt
 
 Requirements :
