@@ -53,7 +53,7 @@ Multiple scan profiles (stealth / default / deep)
 Recon‑only approach (no exploitation)
 
 Installation :
-git clone https://github.com/Youssefbakrey/blackscope.git
+https://github.com/Youssefbakrey/BlackScope.git
 
 cd blackscope
 
