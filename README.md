@@ -63,7 +63,9 @@ pip install -r requirements.txt
 # Requirements :
 
 Python 3.9+
+
 requests
+
 # Usage
 
 python blackscope.py google.com --all
@@ -106,7 +108,7 @@ Includes:
 
 Discovered hosts & services
 HTTP endpoints & API paths
-# Notes 
-python blackscope.py google.com --all not https://google.com
 Correlated security findings
 Risk scores per host
+# Notes 
+python blackscope.py google.com --all not https://google.com
