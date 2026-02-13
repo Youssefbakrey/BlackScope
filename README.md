@@ -64,8 +64,11 @@ pip install -r requirements.txt
 
 Python 3.9+
 requests
+# Usage
 
-Common Options
+python blackscope.py google.com --all
+
+# Common Options
 
 --dns           DNS resolution
 
@@ -103,5 +106,7 @@ Includes:
 
 Discovered hosts & services
 HTTP endpoints & API paths
+# Notes 
+python blackscope.py google.com --all not https://google.com
 Correlated security findings
 Risk scores per host
