@@ -52,7 +52,7 @@ Multiple scan profiles (stealth / default / deep)
 
 Recon‑only approach (no exploitation)
 
-Installation :
+# Installation :
 
 https://github.com/Youssefbakrey/BlackScope.git
 
@@ -60,7 +60,7 @@ cd blackscope
 
 pip install -r requirements.txt
 
-Requirements :
+# Requirements :
 
 Python 3.9+
 requests
